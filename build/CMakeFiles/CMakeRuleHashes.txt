@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+1ec846551c33c11a35cbf91a0df3fa4e CMakeFiles/calligra_shape_myshape_automoc
+bd3dfe5876cbb7d00eb6188bc259c76e CMakeFiles/uninstall
+59332b7b1bc064476ff1c51e7ea20853 ui_PartsWidget.h

@@ -1,0 +1,10 @@
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/test.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/edit_cache.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/rebuild_cache.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/install/local.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/install/strip.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/calligra_shape_myshape.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/list_install_components.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/install.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/calligra_shape_myshape_automoc.dir
+/hdd/home/hendrik/calligra/myplugin/build/CMakeFiles/uninstall.dir

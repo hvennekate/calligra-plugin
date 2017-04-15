@@ -1,0 +1,14 @@
+SOURCES:
+/hdd/home/hendrik/calligra/myplugin/MyShape.cpp;/hdd/home/hendrik/calligra/myplugin/MyShapeFactory.cpp;/hdd/home/hendrik/calligra/myplugin/MyTool.cpp;/hdd/home/hendrik/calligra/myplugin/MyToolFactory.cpp;/hdd/home/hendrik/calligra/myplugin/dialogs/PartsWidget.cpp
+MOC_COMPILE_DEFINITIONS:
+_DEFAULT_SOURCE;_BSD_SOURCE
+MOC_DEFINITIONS:
+ -D_DEFAULT_SOURCE -D_BSD_SOURCE
+MOC_INCLUDES:
+/usr/include/QtCore;/usr/include/Qt;/usr/include/QtGui;/usr/include/QtSvg;/usr/include/QtXml;/home/hendrik/calligra/install/include/calligra;/home/hendrik/calligra/calligra-2.9.11/libs/flake;/home/hendrik/calligra/calligra-2.9.11
+CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE:
+ON
+CMAKE_BINARY_DIR:
+/hdd/home/hendrik/calligra/myplugin/build
+CMAKE_SOURCE_DIR:
+/hdd/home/hendrik/calligra/myplugin
